@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="Mockups.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="1.3902228"
+     inkscape:cx="1045.1562"
+     inkscape:cy="585.15801"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g20"
+       transform="translate(3.2952171)"
+       inkscape:export-filename="ska.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#aa0000;stroke-width:1.56107;stroke-linecap:round;stroke-linejoin:round"
+         id="rect1"
+         width="79.375"
+         height="137.58333"
+         x="19.757074"
+         y="75.992569" />
+    </g>
+    <circle
+       style="fill:#ffff00;stroke-width:0.548268;stroke-linecap:round;stroke-linejoin:round"
+       id="path1"
+       cx="254.44206"
+       cy="149.86319"
+       r="9.6306562"
+       inkscape:export-filename="bullet_02.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#00a5aa;fill-opacity:1;stroke-width:0.548268;stroke-linecap:round;stroke-linejoin:round"
+       id="path1-6"
+       cx="254.44206"
+       cy="175.32094"
+       r="9.6306562"
+       inkscape:export-filename="bullet_03.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke-width:0.548268;stroke-linecap:round;stroke-linejoin:round"
+       id="path1-6-3"
+       cx="278.85016"
+       cy="175.32094"
+       r="9.6306562"
+       inkscape:export-filename="bullet_06.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.548268;stroke-linecap:round;stroke-linejoin:round"
+       id="path1-6-3-3"
+       cx="254.44206"
+       cy="124.40543"
+       r="9.6306562"
+       inkscape:export-filename="bullet_04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#aa0000;stroke-width:0.548268;stroke-linecap:round;stroke-linejoin:round"
+       id="circle1"
+       cx="278.85016"
+       cy="149.51254"
+       r="9.6306562"
+       inkscape:export-filename="bullet_01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#8d5fd3;fill-opacity:1;stroke-width:0.548268;stroke-linecap:round;stroke-linejoin:round"
+       id="circle2"
+       cx="279.29547"
+       cy="124.43048"
+       r="9.6306562"
+       inkscape:export-filename="bullet_05.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#5599ff;fill-opacity:1;stroke-width:0.548268;stroke-linecap:round;stroke-linejoin:round"
+       id="circle2-9"
+       cx="254.44206"
+       cy="200.77869"
+       r="9.6306562"
+       inkscape:export-filename="bullet_07.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#71c837;fill-opacity:1;stroke-width:0.548268;stroke-linecap:round;stroke-linejoin:round"
+       id="circle2-9-4"
+       cx="279.29547"
+       cy="201.12933"
+       r="9.6306562"
+       inkscape:export-filename="bullet_08.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:1.55647;stroke-linecap:round;stroke-linejoin:round"
+       id="rect3"
+       width="232.07443"
+       height="32.618549"
+       x="459.79974"
+       y="89.204239"
+       inkscape:export-filename="platform_solid.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="rect3-0"
+       style="fill:#000000;fill-opacity:1;stroke-width:1.55647;stroke-linecap:round;stroke-linejoin:round"
+       d="M 459.79984 154.69237 L 459.79984 174.39556 L 470.88134 163.31406 L 484.37509 176.80781 L 497.86884 163.31406 L 511.098 176.54323 L 524.32717 163.31406 L 534.9105 173.8974 L 545.49384 163.31406 L 558.72249 176.54271 L 571.95165 163.31355 L 585.1803 176.54271 L 598.40947 163.31355 L 611.63864 176.54271 L 624.8678 163.31355 L 638.09697 176.54271 L 651.32614 163.31355 L 664.5553 176.54271 L 677.78447 163.31355 L 691.87405 177.40312 L 691.87405 154.69237 L 459.79984 154.69237 z "
+       inkscape:export-filename="platform_unidirectional.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:0.695235;stroke-linecap:round;stroke-linejoin:round"
+       id="rect12"
+       width="83.166183"
+       height="83.166183"
+       x="-143.64299"
+       y="113.29385"
+       inkscape:export-filename="enemy_small.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       id="rect13"
+       width="119.62308"
+       height="119.62308"
+       x="522.78162"
+       y="245.13234" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       id="rect14"
+       width="119.62308"
+       height="119.62308"
+       x="387.04065"
+       y="382.96365" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       id="rect15"
+       width="119.62308"
+       height="119.62308"
+       x="522.78162"
+       y="382.96365" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:1.37249;stroke-linecap:round;stroke-linejoin:round"
+       id="rect16"
+       width="164.1815"
+       height="164.1815"
+       x="-336.71027"
+       y="40.414261"
+       inkscape:export-filename="enemy_medium.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:2.50511;stroke-linecap:round;stroke-linejoin:round"
+       id="rect17"
+       width="299.66898"
+       height="299.66898"
+       x="-654.37097"
+       y="-95.073212"
+       inkscape:export-filename="enemy_big.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:4.8559;stroke-linecap:round;stroke-linejoin:round"
+       id="rect18"
+       width="580.87744"
+       height="580.87744"
+       x="-1253.2401"
+       y="-376.28168"
+       inkscape:export-filename="enemy_huge.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#aa0000;stroke-width:17.5587;stroke-linecap:round;stroke-linejoin:round"
+       id="circle18"
+       cx="456.74774"
+       cy="-572.48181"
+       r="308.43042"
+       inkscape:export-filename="explosion.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#aa0000;stroke-width:1.56107;stroke-linecap:round;stroke-linejoin:round"
+       id="rect19"
+       width="79.375"
+       height="137.58333"
+       x="117.25463"
+       y="218.47292" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.814px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:2.50504;stroke-linecap:round;stroke-linejoin:round"
+       x="157.20982"
+       y="297"
+       id="text19"><tspan
+         sodipodi:role="line"
+         id="tspan19"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#ffffff;stroke-width:2.50504"
+         x="157.20982"
+         y="297">JAZZ</tspan></text>
+    <rect
+       style="fill:#000000;stroke-width:1.56107;stroke-linecap:round;stroke-linejoin:round"
+       id="rect20"
+       width="79.375"
+       height="137.58333"
+       x="117.25463"
+       y="67.400597"
+       inkscape:export-filename=".\npc.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
